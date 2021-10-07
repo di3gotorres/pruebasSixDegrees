@@ -1,9 +1,11 @@
 # pruebasSixDegrees
 Solucion Backend en .Net Core C# y Frontend en Agular
+
 En la carpeta scripts estan los archivos para:
   Crear la base de datos
   Crear la tabla de usuarios
   Insertar datos de pruebas
+  
 En el Backend se debe cambiar la cadena de conexion a la base de datos. Esto se debe hacer en:
   Proyecto services
     Archivo launchSettings.json
