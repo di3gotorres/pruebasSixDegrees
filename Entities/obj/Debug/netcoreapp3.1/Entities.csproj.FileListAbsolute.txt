@@ -1,0 +1,10 @@
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

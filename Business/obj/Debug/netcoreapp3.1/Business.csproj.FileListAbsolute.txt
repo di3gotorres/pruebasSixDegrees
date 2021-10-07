@@ -1,0 +1,15 @@
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\desarrollos\proyectoSixDegrees\ThecnicalTest\Business\obj\Debug\netcoreapp3.1\Business.pdb
